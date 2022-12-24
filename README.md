@@ -15,7 +15,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Front-end developer
 - Currently learning Web Development by Self
 - Personal website [link](https://arpan-kumar-gupta-portfolio.netlify.app/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1E_SNyQns2ExrQSnrQHpuODF0JkVug50l/view?usp=sharing)
